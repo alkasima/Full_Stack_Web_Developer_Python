@@ -23,6 +23,7 @@ def draws_square():
     angie.shape("arrow")
     angie.color("blue")
     angie.circle(100)
+
     
     window.exitonclick()
 
